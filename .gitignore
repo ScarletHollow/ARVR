@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.ipynb_checkpoints/
+
+*.avi
+*.mov
+
+.env
+.venv/
+venv/
+
+.DS_Store
+Thumbs.db
